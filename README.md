@@ -17,3 +17,8 @@ Put shell-ext.el anywhere in your load-path and then require it.
     (require 'shell-ext)
 
 that's it!
+
+Additional information
+----------------------
+Please check the file comment in shell-ext.el for more detailed
+usage information.
